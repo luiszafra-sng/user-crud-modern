@@ -1,0 +1,4 @@
+# Toolchain reproducible — Constitution Principio III.
+# Verificado 2026-09-16.
+java=21.0.4-tem
+maven=3.9.11
